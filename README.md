@@ -28,12 +28,14 @@ git clone https://github.com/<your-username>/Face-Recognition-Project.git
 cd Face-Recognition-Project
 
 jupyter notebook "Face Recognition Project.ipynb"
-Output
+
+# Output
 Real-time webcam face recognition.
 Bounding boxes and labels for identified faces.
 Accuracy metrics and visual performance summary.
-Results
+
+# Results
 The system successfully detects and recognizes multiple faces in real time with high accuracy and minimal latency.
 
 # Author
-Developed by Gresa Hisa (@gresium) — AI & Cybersecurity Engineer
+Developed by Gresa Hisa  — AI & Cybersecurity Engineer
